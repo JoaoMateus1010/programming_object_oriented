@@ -3,5 +3,5 @@ This repository have codes in Java language to make codes using programming obje
 
 * IDE- NetBeans 8.2
 * Java
-### Horkhome 01:
+### Workhome 01:
 Simple example using Java to practice.
