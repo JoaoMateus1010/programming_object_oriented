@@ -5,6 +5,16 @@ public class Empresa {
     private String CNPJ;
     private String Endereco;   
 
+    public Empresa(String Nome, String CNPJ, String Endereco) {
+        this.Nome = Nome;
+        this.CNPJ = CNPJ;
+        this.Endereco = Endereco;
+    }
+
+    public Empresa() {
+    }
+
+    
     public String getNome() {
         return Nome;
     }
